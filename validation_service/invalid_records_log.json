@@ -1,0 +1,42 @@
+[
+    {
+        "FIRST_NAME": "",
+        "LAST_NAME": "Anderson",
+        "STREET_ADDRESS": "15 Cedar Drive",
+        "CITY": "Montreal",
+        "POSTAL_CODE": "H2X3Y7",
+        "COUNTRY": "Canada",
+        "ACCOUNT_NUMBER": "22223333",
+        "LETTER_TYPE": "welcome",
+        "OFFER_TYPE": "",
+        "CREDIT_LIMIT": "",
+        "status": "invalid",
+        "errors": [
+            "Missing First Name"
+        ]
+    },
+    {
+        "FIRST_NAME": "",
+        "LAST_NAME": "",
+        "STREET_ADDRESS": "",
+        "CITY": "",
+        "POSTAL_CODE": "",
+        "COUNTRY": "",
+        "ACCOUNT_NUMBER": "12",
+        "LETTER_TYPE": "offer",
+        "OFFER_TYPE": "",
+        "CREDIT_LIMIT": "",
+        "status": "invalid",
+        "errors": [
+            "Missing First Name",
+            "Missing Last Name",
+            "Invalid Account Number: 12",
+            "Missing STREET_ADDRESS",
+            "Missing CITY",
+            "Missing POSTAL_CODE",
+            "Missing COUNTRY",
+            "Missing OFFER_TYPE",
+            "Missing CREDIT_LIMIT"
+        ]
+    }
+]

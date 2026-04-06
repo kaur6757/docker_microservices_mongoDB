@@ -1,0 +1,17 @@
+Date: {{CURRENT_DATE}}
+{{FIRST_NAME}} {{LAST_NAME}}
+{{STREET_ADDRESS}}
+{{CITY}}, {{POSTAL_CODE}}
+{{COUNTRY}}
+Account Number: {{ACCOUNT_NUMBER}}
+Dear {{FIRST_NAME}} {{LAST_NAME}},
+As a valued customer, we are pleased to offer you a special financial product designed to support your needs.
+You have been pre-approved for the following offer:
+Product Type: {{OFFER_TYPE}}
+Credit Limit: ${{CREDIT_LIMIT}}
+This offer is available exclusively to customers with accounts like yours (Account Number: {{ACCOUNT_NUMBER}}).
+If you would like to accept this offer or learn more, please contact us or visit your nearest branch.
+We appreciate your continued trust in our bank.
+Sincerely,
+Customer Relations Team
+Your Bank Name

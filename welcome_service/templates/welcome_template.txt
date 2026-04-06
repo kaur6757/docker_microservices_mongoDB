@@ -1,0 +1,15 @@
+Date: {{CURRENT_DATE}}
+{{FIRST_NAME}} {{LAST_NAME}}
+{{STREET_ADDRESS}}
+{{CITY}}, {{POSTAL_CODE}}
+{{COUNTRY}}
+Account Number: {{ACCOUNT_NUMBER}}
+Dear {{FIRST_NAME}} {{LAST_NAME}},
+Welcome to our bank!
+We are pleased to have you as a valued customer. Your new account has been successfully created and is now ready for use.
+If you have any questions regarding your account {{ACCOUNT_NUMBER}}, please do not hesitate to contact our customer service team.
+We look forward to serving your banking needs.
+Sincerely,
+Customer Relations Team
+Your Bank Name
+

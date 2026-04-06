@@ -1,0 +1,15 @@
+Date: April 06, 2026
+John Smith
+123 Maple Street
+Toronto, M5V1A1
+Canada
+Account Number: 12345678
+Dear John Smith,
+Welcome to our bank!
+We are pleased to have you as a valued customer. Your new account has been successfully created and is now ready for use.
+If you have any questions regarding your account 12345678, please do not hesitate to contact our customer service team.
+We look forward to serving your banking needs.
+Sincerely,
+Customer Relations Team
+Your Bank Name
+
